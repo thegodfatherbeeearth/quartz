@@ -3,8 +3,9 @@ title: Welcome
 ---
 # Hello
 
-If you want to chat / interact with me - I love doing so! See [[contact]]. 
+To chat / interact with me: [[contact]]. 
 
 # My projects:
 
-1.  [[ buytrx ]] - a small dapp on Tron.
+1. [[tavi]] - a USDT TRC-20 x Base (i.e. the Ethereum ecosystem) wallet.
+2. [[ buytrx ]] - a small dapp on Tron.
