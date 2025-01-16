@@ -21,4 +21,4 @@ My end goal for working on buytrx.org is not to attract users or earn money (tho
 
 For the past five years of my life I have been constantly trying to make tech products. First web2, then web3. I have made a gazillion MVPs, however, none got actual usage. AND! They got no usage not because people found my products useless, but because I simply did no distribution AT ALL.
 
-This is why I created buytrx.org - to try out various things and see how to distribute a product and make people use it and love it. And so far I have tried out many things and I have learned A TON! In the end, I wouldn't be writing this article if not the mind shift that has happend to me during the past month thanks to buytrx.org. My life has irreversibly changed forever.
+This is why I created buytrx.org - to try out various things and see how to distribute a product and make people use it and love it. And so far I have tried many things and I have learned A TON! In the end, I wouldn't be writing this article if not the mind shift that has happend to me during the past month thanks to buytrx.org. My life has irreversibly changed forever.
