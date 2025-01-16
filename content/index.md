@@ -1,5 +1,10 @@
 ---
 title: Welcome
 ---
+# Hello
 
-Hello! See [[ contact ]] to connect.
+If you want to chat / interact with me - I love doing so! See [[contact]]. 
+
+# My projects:
+
+1.  [[ buytrx ]] - a small dapp on Tron.
