@@ -4,8 +4,9 @@ title: Welcome
 # Hello
 
 To chat / interact with me: [[contact]]. 
+Test telegram page: [[Test telegram page]]
 
 # My projects:
 
-1. [[tavi]] - a USDT TRC-20 x Base (i.e. the Ethereum ecosystem) wallet.
-2. [[ buytrx ]] - a small dapp on Tron.
+1. [[ buytrx ]] - a small dapp on Tron.
+2. [[ smoothusdt ]] - a simple wallet for USDT TRC-20.
