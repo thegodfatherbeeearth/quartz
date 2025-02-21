@@ -1,10 +1,10 @@
 ---
 title: Welcome
 ---
-# Hello
+Hellooooooo happy to see you here! :)
+# Contact
 
 To chat / interact with me: [[contact]]. 
-Test telegram page: [[Test telegram page]]
 
 # My projects:
 
