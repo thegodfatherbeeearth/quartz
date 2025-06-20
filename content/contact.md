@@ -2,12 +2,14 @@
 title: Contact & Social
 ---
 
-Telegram: https://t.me/nebolax0 - preferred for talking.
+Telegram: https://t.me/nebolax0.
 
-email: hardcore@nebolax.xyz - for official stuff.
+email: hardcore@nebolax.xyz.
 
-Github: https://github.com/nebolax - all my coding is there.
+Github: https://github.com/nebolax.
 
-X: https://x.com/nebolax0 - no tweeting, follow me for the sake of the social graph.
+X: https://x.com/nebolax0.
 
-Farcaster: https://warpcast.com/nebolax - same as X.
+Farcaster: https://warpcast.com/nebolax.
+
+Tron DAO forum account: https://forum.trondao.org/u/nebolax
