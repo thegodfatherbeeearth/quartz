@@ -1,7 +1,7 @@
 ---
 title: Welcome
 ---
-Hellooooooo happy to see you here! I am Alexey, born on the Pi day in 2004 \[calculate my age yourself pls :)]. I like making web3 startups and celebrating life.
+Hellooooooo happy to see you here! I am Alexey, born on the Pi day in 2004. I like making web3 startups and celebrating life.
 
 I've already made a successful web3 project (https://buytrx.org), but I did it alone, which doesn't feel cool. So, as of June 2025, I am super actively looking for clever people to:
 1. Become friends.
